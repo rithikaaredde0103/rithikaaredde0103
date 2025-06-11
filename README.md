@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rithikaa Redde
-- 👀 I’m interested in enhancing my coding skills and working on open source projects
-- 🌱 I’m currently learning AIML
+- 👀 I’m interested in ethical and explainable AI and cognitive neuroscience
+- 🌱 I’m currently pursuing dual degrees in AIML and Data Science
 
 
 <!---
